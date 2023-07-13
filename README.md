@@ -34,8 +34,8 @@ Styling the page to match the provided design, including fonts, colors, and spac
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/Tornike-Peradze/skilled-e-learning-landing-page)
+- Live Site URL: (https://tornike-peradze.github.io/skilled-e-learning-landing-page/)
 
 ## My process
 
